@@ -1,0 +1,24 @@
+{
+  "details":[
+    {
+      "card":{
+        "name":"T Ashok Kumar",
+        "email":"ashoknobel00@gmail.com",
+        "mobile":"+91 9291319487",
+        "roll":"188W1A04A6",
+        "desc":"student",
+        "clg":"VRSEC"
+      }
+    },
+    {
+      "card":{
+        "name":"T Srinivas",
+        "email":"srini120700@gmail.com",
+        "mobile":"+91 9291319487",
+        "roll":"188W1A04A8",
+        "desc":"student",
+        "clg":"VRSEC"
+      }
+    }
+  ]
+}
